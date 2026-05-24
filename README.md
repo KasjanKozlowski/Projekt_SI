@@ -1,21 +1,17 @@
-# Python Template
-
-[![python](https://img.shields.io/badge/Python-3.14-3776AB.svg?style=flat&logo=python&logoColor=white)](https://www.python.org)
-[![ruff](https://github.com/wnowicki/pytemp/workflows/Ruff/badge.svg)](https://github.com/wnowicki/pytemp/actions?query=branch%3Amain)
-[![pytest](https://github.com/wnowicki/pytemp/workflows/Pytest/badge.svg)](https://github.com/wnowicki/pytemp/actions?query=branch%3Amain)
-[![pylint](https://github.com/wnowicki/pytemp/workflows/Pylint/badge.svg)](https://github.com/wnowicki/pytemp/actions?query=branch%3Amain)
-[![markdown](https://github.com/wnowicki/pytemp/workflows/Markdown%20Lint/badge.svg)](https://github.com/wnowicki/pytemp/actions?query=branch%3Amain)
-[![License: GPLv3](https://img.shields.io/badge/License-MIT-blue.svg)](https://license.md/licenses/mit-license/)
-
-## Test
-
-```shell
-uv run pytest
-```
-
-## Security
-
-If you discover any security-related issues, please email [email](mailto:email) instead of using the issue tracker.
-
----
-Copyright (c) [year] [fullname]
+# A* Maze Solver
+Projekt zaliczeniowy z przedmiotu Sztuczna Inteligencja.
+## Temat
+Zastosowanie algorytmu A* do znajdowania najkrótszej ścieżki w labiryncie.
+## Funkcjonalności
+- implementacja algorytmu A*
+- obsługa różnych heurystyk
+- wizualizacja ścieżki
+- analiza wyników
+- porównanie heurystyk
+## Heurystyki
+- Manhattan
+- Euklidesowa
+- Zerowa heurystyka
+## Uruchomienie
+```bash
+python main.py
