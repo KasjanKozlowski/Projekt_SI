@@ -13,5 +13,6 @@ Zastosowanie algorytmu A* do znajdowania najkrótszej ścieżki w labiryncie.
 - Euklidesowa
 - Zerowa heurystyka
 ## Uruchomienie
+
 ```bash
 python main.py
