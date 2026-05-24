@@ -4,6 +4,7 @@
 Projekt zaliczeniowy z przedmiotu Sztuczna Inteligencja.
 
 ## Temat
+
 Zastosowanie algorytmu A* do znajdowania najkrótszej ścieżki w labiryncie.
 
 ## Funkcjonalności
