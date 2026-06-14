@@ -51,6 +51,7 @@ Dla każdej heurystyki wykonano pomiary:
 | Euklidesowa | krótki | średnio | poprawna |
 | Zerowa | najdłuższy | najwięcej | poprawna |
 # 7. Wnioski
+
 Algorytm A* skutecznie znajduje najkrótszą ścieżkę w labiryncie.
 Najlepsze wyniki uzyskano dla heurystyki Manhattan, ponieważ ruch był możliwy
 wyłącznie w czterech kierunkach.

@@ -22,6 +22,7 @@ Zastosowanie algorytmu A* do znajdowania najkrótszej ścieżki w labiryncie.
 - Zerowa heurystyka
 
 ## Uruchomienie
+
 Projekt wykorzystuje środowisko uruchomieniowe uv, które automatycznie zarządza zależnościami i wersją Pythona.
 
 Uruchomienie programu:
