@@ -42,9 +42,9 @@ def run_test(maze_path: str):
 
 if __name__ == "__main__":
     mazes = [
-        "data/maze1.txt",
-        "data/maze2.txt",
-        "data/maze3.txt",
+        "app/data/maze1.txt",
+        "app/data/maze2.txt",
+        "app/data/maze3.txt",
     ]
 
     for maze in mazes:
